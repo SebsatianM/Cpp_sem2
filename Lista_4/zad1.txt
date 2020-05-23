@@ -1,0 +1,11 @@
+A) najwyższy priorytet w pętli while ma wyrażenie postinkrementacji czyli 'wartosc++', 
+natomiast najmniejszą wage ma wyrażenie przypisania czyli '='
+
+B) przy 'dokad' odpowiada za przechodzenie do kolejnego elementu tablicy a przy 'skad' za przechodzenie do kolejnego znaku w ciagu tekstowym
+
+C) jedno argumentowy operator * odpowiada za odniesienie się wskaźnikiem czyli pobiera on adres pamięci w ktorej znajduje się ta zmienna
+
+D) operator przypisania zwraca wartosc zmiennej która stoi po prawej stronie tego operatora
+
+E) jeżeli wynik tego wyrażenia arytmetycznego będzie różny od 0 to pętla będzie się wykonywała niezależnie czy będzie 
+to liczna na - czy na + jedną sytuacją gdy pętla się zatrzyma będzie sytuacja w której wartość wyrażenia będzie równa 0
